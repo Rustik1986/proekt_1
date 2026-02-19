@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://rahuldkjain.github.io/github-profile-readme-generator">
+  <a href="https://tdaunukusáuz">
     <img alt="GitHub Profile Readme Generator" src="./src/images/mdg.png" width="60" />
   </a>
 </p>
 <h1 align="center">
-  GitHub Profile README Generator
+  GitHub Profilinde README menen islesiw
 </h1>
 
 <p align="center">
