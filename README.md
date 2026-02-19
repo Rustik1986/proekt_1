@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://tdaunukusáuz">
-    <img alt="GitHub Profile Readme Generator" src="./src/images/mdg.png" width="60" />
+  <a href="https://tdaunukus.uz">
+    <img alt="" src="./src/images/mdg.png" width="60" />
   </a>
 </p>
 <h1 align="center">
@@ -197,5 +197,5 @@ For commercial use of this project, please verify font licensing requirements.
 
 <hr>
 <p align="center">
-Developed with ❤️ in India 🇮🇳 
+Developed with ❤️ in Nukus 
 </p>
